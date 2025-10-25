@@ -27,16 +27,16 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Npgsql" Version="9.0.3" />
-		<PackageReference Include="Acme.Wattle.CodeGeneration.Common" Version="1.0.0.6346" />
-		<PackageReference Include="Acme.Wattle.CodeGeneration.Generator.Common" Version="1.0.0.6346">
+		<PackageReference Include="Npgsql" Version="9.0.4" />
+		<PackageReference Include="Acme.Wattle.CodeGeneration.Common" Version="1.0.0.6547" />
+		<PackageReference Include="Acme.Wattle.CodeGeneration.Generator.Common" Version="1.0.0.6547">
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 			<TreatAsUsed>true</TreatAsUsed>
 		</PackageReference>
-		<PackageReference Include="Acme.Wattle.Common" Version="1.0.0.6346" />
-		<PackageReference Include="Acme.Wattle.DomainObjects.Interfaces" Version="1.0.0.6346" />
-		<PackageReference Include="Acme.Wattle.Utils" Version="1.0.0.6346" />
+		<PackageReference Include="Acme.Wattle.Common" Version="1.0.0.6547" />
+		<PackageReference Include="Acme.Wattle.DomainObjects.Interfaces" Version="1.0.0.6547" />
+		<PackageReference Include="Acme.Wattle.Utils" Version="1.0.0.6547" />
 	</ItemGroup>
 
 	<ItemGroup>

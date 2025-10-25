@@ -9,9 +9,9 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
-		<PackageReference Include="NUnit3TestAdapter" Version="5.1.0" />
-		<PackageReference Include="Acme.Wattle.Testing.DomainObjects" Version="1.0.0.6346" />
+		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="18.0.0" />
+		<PackageReference Include="NUnit3TestAdapter" Version="5.2.0" />
+		<PackageReference Include="Acme.Wattle.Testing.DomainObjects" Version="1.0.0.6547" />
 		<PackageReference Include="System.Linq.Async" Version="6.0.3" />
 	</ItemGroup>
 

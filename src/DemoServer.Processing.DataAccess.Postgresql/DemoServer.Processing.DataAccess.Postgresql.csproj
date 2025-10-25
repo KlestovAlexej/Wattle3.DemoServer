@@ -41,24 +41,24 @@
 		<PackageReference Include="Microsoft.CodeAnalysis.CSharp.Workspaces" Version="4.14.0" />
 		<PackageReference Include="Microsoft.CodeAnalysis.Workspaces.Common" Version="4.14.0" />
 		<PackageReference Include="AutoMapper" Version="[14.0.0]" />
-		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.9">
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.10">
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 			<TreatAsUsed>true</TreatAsUsed>
 		</PackageReference>
-		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.9">
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.10">
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 			<TreatAsUsed>true</TreatAsUsed>
 		</PackageReference>
 		<PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.4" />
-		<PackageReference Include="Acme.Wattle.CodeGeneration.Generator.Implements" Version="1.0.0.6346">
+		<PackageReference Include="Acme.Wattle.CodeGeneration.Generator.Implements" Version="1.0.0.6547">
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 			<TreatAsUsed>true</TreatAsUsed>
 		</PackageReference>
-		<PackageReference Include="Acme.Wattle.DomainObjects" Version="1.0.0.6346" />
-		<PackageReference Include="Acme.Wattle.Mappers.PostgreSql" Version="1.0.0.6346" />
+		<PackageReference Include="Acme.Wattle.DomainObjects" Version="1.0.0.6547" />
+		<PackageReference Include="Acme.Wattle.Mappers.PostgreSql" Version="1.0.0.6547" />
 		<PackageReference Include="System.Linq.Async" Version="6.0.3" />
 	</ItemGroup>
 

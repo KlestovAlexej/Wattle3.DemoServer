@@ -27,13 +27,13 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Acme.Wattle.CodeGeneration.Generator.Interfaces" Version="1.0.0.6346">
+		<PackageReference Include="Acme.Wattle.CodeGeneration.Generator.Interfaces" Version="1.0.0.6547">
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 			<TreatAsUsed>true</TreatAsUsed>
 		</PackageReference>
-		<PackageReference Include="Acme.Wattle.Mappers.Interfaces" Version="1.0.0.6346" />
-		<PackageReference Include="Acme.Wattle.Mappers.PostgreSql" Version="1.0.0.6346" />
+		<PackageReference Include="Acme.Wattle.Mappers.Interfaces" Version="1.0.0.6547" />
+		<PackageReference Include="Acme.Wattle.Mappers.PostgreSql" Version="1.0.0.6547" />
 	</ItemGroup>
 
 	<ItemGroup>

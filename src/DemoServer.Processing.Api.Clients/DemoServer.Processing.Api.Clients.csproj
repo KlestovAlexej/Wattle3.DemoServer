@@ -18,8 +18,8 @@
 	<ItemGroup>
 		<PackageReference Include="RestSharp" Version="112.1.0" />
 		<PackageReference Include="RestSharp.Serializers.NewtonsoftJson" Version="112.1.0" />
-		<PackageReference Include="Acme.Wattle.Common" Version="1.0.0.6346" />
-		<PackageReference Include="Acme.Wattle.Json" Version="1.0.0.6346" />
+		<PackageReference Include="Acme.Wattle.Common" Version="1.0.0.6547" />
+		<PackageReference Include="Acme.Wattle.Json" Version="1.0.0.6547" />
 	</ItemGroup>
 
 	<ItemGroup>

@@ -18,16 +18,16 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="9.0.9" />
+		<PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="9.0.10" />
 		<PackageReference Include="Serilog.AspNetCore" Version="9.0.0" />
 		<PackageReference Include="Serilog.Enrichers.Thread" Version="4.0.0" />
 		<PackageReference Include="Serilog.Sinks.Logz.Io" Version="8.0.0" />
-		<PackageReference Include="Acme.Wattle.Infrastructures.Rest.Controllers" Version="1.0.0.6346" />
-		<PackageReference Include="Acme.Wattle.OpenTelemetry" Version="1.0.0.6346" />
-		<PackageReference Include="Acme.Wattle.Swashbuckle.AspNetCore" Version="1.0.0.6346" />
-		<PackageReference Include="Acme.Wattle.Testing" Version="1.0.0.6346" />
-		<PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="9.0.0" />
-		<PackageReference Include="Swashbuckle.AspNetCore.ReDoc" Version="9.0.4" />
+		<PackageReference Include="Acme.Wattle.Infrastructures.Rest.Controllers" Version="1.0.0.6547" />
+		<PackageReference Include="Acme.Wattle.OpenTelemetry" Version="1.0.0.6547" />
+		<PackageReference Include="Acme.Wattle.Swashbuckle.AspNetCore" Version="1.0.0.6547" />
+		<PackageReference Include="Acme.Wattle.Testing" Version="1.0.0.6547" />
+		<PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="9.0.1" />
+		<PackageReference Include="Swashbuckle.AspNetCore.ReDoc" Version="9.0.6" />
 		<PackageReference Include="System.Private.Uri" Version="4.3.2" />
 	</ItemGroup>
 
